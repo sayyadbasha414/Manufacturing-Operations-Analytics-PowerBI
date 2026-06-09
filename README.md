@@ -99,6 +99,9 @@ MTBF by Machine
 Downtime by Reason
 Top Machine Ranking
 Machine Performance Details
+
+https://github.com/sayyadbasha414/Manufacturing-Operations-Analytics-PowerBI/blob/main/Machine%20Performance.png
+
 5. Employee Performance Dashboard
 
 Evaluates workforce productivity and efficiency.
