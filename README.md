@@ -120,6 +120,9 @@ Efficiency by Department
 Production by Shift
 Monthly Employee Productivity
 Employee Ranking
+
+https://github.com/sayyadbasha414/Manufacturing-Operations-Analytics-PowerBI/blob/main/Employee%20Performance.png
+
 🛠️ Tools & Technologies
 Power BI Desktop
 Power Query
