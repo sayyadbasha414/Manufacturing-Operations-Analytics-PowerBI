@@ -55,6 +55,10 @@ Production Quantity by Machine Type
 Production by Shift
 Top 10 Products
 Production by Semiconductor Product
+
+Refer Dashboard Image : 
+https://github.com/sayyadbasha414/Manufacturing-Operations-Analytics-PowerBI/blob/main/Production%20Performance%20Dashbaord.png
+
 3. Quality Analysis Dashboard
 
 Tracks manufacturing quality and defect trends.
