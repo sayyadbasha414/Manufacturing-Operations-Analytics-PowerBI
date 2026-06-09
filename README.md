@@ -77,6 +77,9 @@ Defects by Plant
 Defects by Category
 Top Defective Products
 Rework Analysis
+
+https://github.com/sayyadbasha414/Manufacturing-Operations-Analytics-PowerBI/blob/main/Track%20Productivity%20Quality.png
+
 4. Machine Utilization & Downtime Dashboard
 
 Monitors machine performance and maintenance indicators.
