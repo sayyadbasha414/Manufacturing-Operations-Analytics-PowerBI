@@ -34,6 +34,9 @@ Visuals
 Production by Plant
 Monthly Production Trend
 Production by Category
+
+https://github.com/sayyadbasha414/Manufacturing-Operations-Analytics-PowerBI/blob/main/Manufacturing%20performance.png
+
 2. Production Performance Dashboard
 
 Analyzes production output and achievement.
